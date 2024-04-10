@@ -1,0 +1,21 @@
+.scroll-div {
+    height: 90%;
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+
+.scroll-div::-webkit-scrollbar {
+    display: none; /* WebKit */
+}
+
+.bglogo{
+position: absolute;
+top: 20%;
+left: 35%;
+height: 32vw;
+z-index: -1;
+}
+/* .bg{
+    background: #d3fdcf;
+} */

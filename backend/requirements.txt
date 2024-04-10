@@ -1,0 +1,6 @@
+flask
+tk
+PIllow
+ultralytics
+opencv-python
+multiprocessing

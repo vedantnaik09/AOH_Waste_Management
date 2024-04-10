@@ -1,0 +1,12 @@
+.QRCode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.font1{
+    font-size: 3vw;
+}
+.font2{
+    font-size: 2vw;
+}

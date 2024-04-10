@@ -1,0 +1,49 @@
+node_modules
+
+## Flutter/Dart/Pub
+**/build/
+**/ios/Pods/
+**/android/.gradle/
+**/android/.idea/
+**/*.iml
+**/android/local.properties
+**/ios/Runner.xcworkspace/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/AppFrameworkInfo.plist
+**/macos/Flutter/.last_build_id
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/AppFrameworkInfo.plist
+**/.dart_tool/
+**/.idea/
+**/*.g.dart
+
+# Xcode
+**/*.xcworkspace/
+**/*.pbxproj
+**/*.mode1v3
+**/*.mode2v3
+**/*.perspectivev3
+**/*.xccheckout
+**/*.xcuserstate
+**/DerivedData/
+**/.happycoders/
+**/Pods/
+**/ios/Podfile.lock
+
+# Android/Gradle
+**/android/gradle-wrapper.properties
+**/android/.gradle/
+**/android/local.properties
+**/android/.idea/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/gradle/
+
+# IntelliJ/Android Studio
+**/*.iml
+**/.idea/
+**/android/.idea/
+
+# Visual Studio Code
+**/.vscode/
